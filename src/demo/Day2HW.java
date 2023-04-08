@@ -8,4 +8,7 @@ public class Day2HW {
 	public void getInfo() {
 	System.out.println("Push..");
 }
+	public void getDoc() {
+		System.out.println("Push..");
+	}
 }
